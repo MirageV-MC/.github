@@ -2,8 +2,8 @@
 
 <img width="600" height="177" alt="Quantum_Science_Logo_With_Text" src="https://github.com/user-attachments/assets/0fdba076-ec4d-4519-8659-36a1c4f377a2" />
 
-#### *G.F.B.S.*
-##### *G*lobal *F*AAS *B*roadcast *S*ystem
+### *G.F.B.S.*
+#### *G*lobal *F*AAS *B*roadcast *S*ystem
 
 
 - 我们剧烈欢迎加入我们的服务器。
