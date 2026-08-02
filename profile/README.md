@@ -9,6 +9,6 @@
 - 我们剧烈欢迎加入我们的服务器。
 - 我们为复刻Q.S.E.R.F.而生。
 
-- 服务器状态与IP: https://miragev-mc.github.io/
+---
 
-- 服务器官方群聊: QQ 568707834
+### 大部分项目已迁移至此组织下: https://github.com/LytharaLab
